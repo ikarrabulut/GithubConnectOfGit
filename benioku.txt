@@ -1,2 +1,3 @@
 Gitders için başlangıç ilk commit değişikliği
 commit için ikinci değişiklik
+farklı kullanıcı adı ile commit atmak

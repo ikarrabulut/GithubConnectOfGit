@@ -1,1 +1,2 @@
 Gitders için başlangıç ilk commit değişikliği
+commit için ikinci değişiklik
